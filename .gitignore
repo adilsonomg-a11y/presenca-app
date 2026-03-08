@@ -1,0 +1,25 @@
+# Python project
+
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Node dependencies
+node_modules/
+
+# Distribution files
+/dist/
+
+# Visual Studio Code files
+.vscode/
+
+# JetBrains IDE files
+.idea/
